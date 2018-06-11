@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="core" />
+        <module name="persistance" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="core" target="1.8" />
+      <module name="persistance" target="1.8" />
       <module name="project_octopus" target="1.8" />
     </bytecodeTargetLevel>
   </component>
