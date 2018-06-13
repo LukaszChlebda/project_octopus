@@ -11,5 +11,15 @@
 
     <artifactId>persistance</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>io.vertx</groupId>
+            <artifactId>vertx-mongo-client</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.vertx</groupId>
+            <artifactId>vertx-mongo-client</artifactId>
+            <version>RELEASE</version>
+        </dependency>
+    </dependencies>
 </project>
