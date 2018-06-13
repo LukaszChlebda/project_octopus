@@ -1,1 +1,3 @@
-'.idea' 
+#Idea Files
+.idea
+*.iml
